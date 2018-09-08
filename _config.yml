@@ -18,7 +18,7 @@ sidebar-avatar: /img/avatar-m.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:     Akatsuki233
+# weibo_username:   Akatsuki233
 zhihu_username:     狂奔的肉夹馍
 github_username:    Akatsuki233
 facebook_username:  wang zheng feng
@@ -61,11 +61,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: bcb99cf85ea0af1ec6bf                       #生成的clientID
+  clientSecret: 73896bcc97c7f769dad9012553b654c9fe537f89    #生成的clientSecret
+  repo: Akatsuki233.github.io    #仓库名称
+  owner: Akatsuki233    #github用户名
+  admin: Akatsuki233
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
@@ -73,13 +73,7 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
-
-# Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
-
-
+ba_track_id: 835c98e0ae063a637df5975415d1a1ba
 
 
 
